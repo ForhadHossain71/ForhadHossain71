@@ -1,11 +1,10 @@
 ## Hi, I'm Forhad 👋
 
-Computer science student who enjoys building small, useful tools: browser extensions, Telegram bots and the occasional C++ program.
+CSE student who enjoys building small, useful tools: browser extensions, Telegram bots and the occasional C++ program.
 
-- 🔨 Currently working on **[WA Privacy Pro](https://github.com/ForhadHossain71/whatsapp-web-privacy-blur)**, a Chrome extension that blurs chats on WhatsApp Web
 - 📚 Learning object-oriented programming in Java and practising C++
 - 🤖 Building Telegram bots with Python in my free time
-- 💬 Easiest way to reach me: [Telegram @forhad71](https://t.me/forhad71)
+- 💬 Easiest way to reach me: [Telegram @NicknameNai](https://t.me/NicknameNai)
 
 ### Tools I work with
 
